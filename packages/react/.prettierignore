@@ -1,7 +1,0 @@
-dist/
-.idea/
-.vscode/
-node_modules/
-
-*-lock.json
-*-lock.yaml
